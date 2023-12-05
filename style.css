@@ -1,0 +1,38 @@
+body {
+  background: #FF0E0E
+}
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.main{
+  font-size: 40px;
+  padding: 30px;
+}
+.header {
+  padding: 30px;
+  font-size: 20px;}
+h2 h3 h4 h5 h6 {
+   font-size: 20px;
+}
+#equacao{
+  margin: 1em;
+  width: 50%;
+}
+#inline {
+  display: inline-block;
+  vertical-align: sub;
+}
+#imgmol{
+  width: 20%;
+}
+ul{ list-style: inside;
+    padding: 0; 
+    margin: 0 10px; 
+}
+.lists{
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px;
+
+}
